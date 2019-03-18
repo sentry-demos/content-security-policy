@@ -2,7 +2,6 @@
 
 ## Goal/Summary:
 Show how to Sentry surfaces CSP vioations
-- TODO
 
 ## Setup
 1. Specify your DSN as `report-uri` in `server.py`
