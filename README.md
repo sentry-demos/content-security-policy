@@ -1,7 +1,7 @@
 # sentry-demos/content-security-policy
 
 ## Goal/Summary:
-Show how to Sentry surfaces CSP vioations
+Show how to Sentry surfaces CSP vioations (https://docs.sentry.io/error-reporting/security-policy-reporting/#content-security-policy)
 
 ## Setup
 1. Specify your DSN as `report-uri` in `server.py`
