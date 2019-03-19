@@ -11,4 +11,4 @@ Show how to Sentry surfaces CSP vioations
 3. Go to http://localhost:8000 in your browser
 
 # GIF
-![Alt Text](todo.gif)
+![Alt Text](csp-sentry.gif)
